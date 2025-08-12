@@ -1,7 +1,3 @@
-![Texto alternativo](/home/ana.fernandes/Downloads/logodobfd.png)
-
-
-
 # 🚀 Curso de Front-End 
 
 Bem-vindo(a) ao repositório oficial da **Turma de Front-End 07PB**!  
