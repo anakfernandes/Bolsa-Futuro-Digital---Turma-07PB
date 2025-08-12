@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/anakfernandes/Bolsa-Futuro-Digital---Turma-07PB/blob/main/logo%20do%20bfd.png" alt="Logo do Curso" width="200">
+  <img src="https://github.com/anakfernandes/Bolsa-Futuro-Digital---Turma-07PB/blob/main/logo%20do%20bfd.png" alt="Logo do Curso" width="500">
 </p>
 
 
