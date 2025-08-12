@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seuusuario/repositorio/main/logo.png" alt="Logo do Curso" width="200">
+</p>
+
+
+
 # 🚀 Curso de Front-End 
 
 Bem-vindo(a) ao repositório oficial da **Turma de Front-End 07PB**!  
